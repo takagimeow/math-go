@@ -1,0 +1,21 @@
+{
+  "editor.defaultFormatter": "golang.go",
+  "prettier.tabWidth": 4,
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#eae952",
+    "activityBar.activeBorder": "#15abaa",
+    "activityBar.background": "#eae952",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#15abaa",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "statusBar.background": "#e4e325",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#bebe18",
+    "titleBar.activeBackground": "#e4e325",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#e4e32599",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.remoteColor": "#e4e325"
+}
